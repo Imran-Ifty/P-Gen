@@ -13,7 +13,7 @@ Now your project generator is ready to use.
 
 ### 🏗️ Run the Generator
 
-The `asd` command is used to run the script.
+The `pgen` command is used to run the script.
 
 1. Open a command prompt or navigate to any folder using the command prompt.
 2. Type the following command to create a new project:
