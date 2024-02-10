@@ -1,5 +1,6 @@
 # 🚀 Project Generator
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FImran-Ifty%2FP-Gen&countColor=%23263759)
 **A tool to quickly generate project structures with PHP, JS, and CSS files.**
 
 ## 🛠️ Installation
@@ -27,7 +28,6 @@ The `pgen` command is used to run the script.
 ---
 
 **Note:** This tool is designed to streamline project setup by providing a simple command to generate a basic project structure. It's particularly useful for quickly starting web development projects with PHP, JavaScript, and CSS components.
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FImran-Ifty%2FP-Gen&countColor=%23263759)
 
 ---
 
